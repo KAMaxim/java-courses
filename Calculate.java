@@ -14,10 +14,6 @@ public class Calculate{
 	    result = first-second;
 		operName = "Вычитание";
 	  }
-	  else if(oper.equals("*")){
-	    result = first*second;
-		operName = "Умножение";
-	  }
 	  else if(oper.equals("/")){
 	    result = first/second;
 		operName = "Деление";
